@@ -44,7 +44,7 @@
 
     ```C++
 	// 修改为root文件夹所在路径
-    const char* doc_root="/home/qgy/TinyWebServer/root";
+    const char* doc_root="/home/gzy/TinyWebServer/root";
     ```
 
 * 生成server
